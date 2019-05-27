@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis
-Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker. It is a direct application of Natural Language Processing (NLP), which is hot topic of research these days.  Thousands of text documents can be processed for sentiment in seconds, compared to the hours it would take a team of people to manually complete the same task.
+Sentiment Analysis is the process of computationally determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker. It is a direct application of Natural Language Processing (NLP), which is hot topic of research these days.  Thousands of text documents can be processed for sentiment in seconds, compared to the hours it would take a team of people to manually complete the same task.
 
 # Process
 The whole process of performing a sentiment analysis can be understood from the following workflow - 
